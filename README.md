@@ -21,4 +21,4 @@ Then open your favorite shell (Zsh/Bash/...)
 | ------------- |:-------------:| -----:|
 | `$ ls`     | Show the folders and files in that path  | `$ ls Home` |
 | `$ cd`     | Allow you to change directory      |   `$ cd Proyect` |
-| `$ touch | It can create any kind of file | `$ touch text.txt test.py` |
+| `$ touch` | It can create any kind of file | `$ touch text.txt test.py` |

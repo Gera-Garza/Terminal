@@ -1,4 +1,4 @@
-#General info
+# General info
 This is the repository for the course of Terminal with Platzi, here you will see what I consider to be the most used commands and some examples
 
 ## Table of contents
@@ -16,8 +16,9 @@ Project is created with:
 Fisrt you will need to have a linux distribution or have a Mac with the Unix OS.
 Then open your favorite shell (Zsh/Bash/...)
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+## Commands
+| Command       | Descripcion   | Example  |
+| ------------- |:-------------:| -----:|
+| `$ ls`     | Show the folders and files in that path  | `$ ls Home` |
+| `$ cd`     | Allow you to change directory      |   `$ cd Proyect` |
+| `$ touch | It can create any kind of file | `$ touch text.txt test.py` |
